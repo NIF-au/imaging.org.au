@@ -3,7 +3,7 @@ title: imaging.org.au
 linkTitle: imaging.org.au
 ---
 
-{{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="auto" color="dark" >}}
+{{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="max" color="dark" >}}
 <img src = "front-page-images.png" style="height:100px;" alt="front-page-images" />
 {{< /blocks/cover >}}
 
@@ -28,9 +28,9 @@ Look for radiotracers available in Australia, verify their availability, link wi
 
 {{< /blocks/section >}}
 
-{{< blocks/lead color="dark" >}}
+<!-- {{< blocks/lead color="white" >}}
 This website is a repository for larger projects that release data, the official website of the NIF is <a href="https://www.anif.org.au">www.anif.org.au</a>. 
-{{< /blocks/lead >}}
+{{< /blocks/lead >}} -->
 
 <!--
 {{< blocks/section color="primary" >}}
