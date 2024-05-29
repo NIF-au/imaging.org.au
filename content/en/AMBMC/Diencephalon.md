@@ -13,10 +13,10 @@ In topological terms, the diencephalon lies between the hypothalamus and the mid
 ## Downloads
 Download the data in MINC or NiFTI format here
 ### Model
-ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/g8j9u) | [nii <i class="fas fa-download"></i>](https://osf.io/download/g8p6a) ]
 
 ### Label files (including index)
-ambmc-c57bl6-label-diencephalon_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-diencephalon_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-diencephalon_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-label-diencephalon_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/5n3m7) | [nii <i class="fas fa-download"></i>](https://osf.io/download/9atc7) ]
 
 ## References
 If you use this data please cite

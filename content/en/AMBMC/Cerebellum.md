@@ -15,9 +15,9 @@ Method linked [here <i class="fas fa-external-link-alt"></i>](/AMBMC/#method)
 ## Downloads
 Download the data in MINC or NiFTI format here
 ### Model
-ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/g8j9u) | [nii <i class="fas fa-download"></i>](https://osf.io/download/g8p6a) ]
 ### Label files (including index)
-ambmc-c57bl6-label-cerebellum_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-cerebellum_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-cerebellum_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-label-cerebellum_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/d24mj) | [nii <i class="fas fa-download"></i>](https://osf.io/download/su2a9) ]
 
 ## References
 If you use this data please cite
@@ -27,7 +27,7 @@ Ullmann, J.F.P., Keller, M.D., Watson, C., Janke, A.L., Kurniawan, N.D., Yang, Z
 
 For more details about the segmentation please see [Pubmed Link <i class="fas fa-external-link-alt"></i>](http://www.ncbi.nlm.nih.gov/pubmed/22658976)
 
-There is also an ISMRM poster from 2012 here: [Model Poster <i class="fas fa-external-link-alt"></i>](/uploads/AMBMC/ismrm2012_1286-ullmann.pdf)
+There is also an ISMRM poster from 2012 here: [Model Poster <i class="fas fa-external-link-alt"></i>](https://osf.io/download/ba3zu)
 
 
 ## Preview

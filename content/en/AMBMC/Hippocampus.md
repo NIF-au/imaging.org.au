@@ -17,10 +17,10 @@ Segmentation was based chiefly on the atlases of Franklin and Paxinos (2008), an
 Download the data in MINC or NiFTI format here
 
 ### Model
-ambmc-c57bl6-model-nonsym_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-nonsym_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/zwcjf) | [nii <i class="fas fa-download"></i>](https://osf.io/download/t9chg) ]
 
 ### Label files (including index)
-ambmc-c57bl6-label-hippocampus_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-hippocampus_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-hippocampus_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-label-hippocampus_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/mj4re) | [nii <i class="fas fa-download"></i>](https://osf.io/download/tjazr) ]
 
 ## References
 If you use this data please cite

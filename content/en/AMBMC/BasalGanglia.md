@@ -15,9 +15,9 @@ Method linked [here <i class="fas fa-external-link-alt"></i>](/AMBMC/#method)
 ## Downloads
 Download the data in MINC or NiFTI format here
 ### Model
-ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/g8j9u) | [nii <i class="fas fa-download"></i>](https://osf.io/download/g8p6a) ]
 ### Label files (including index)
-ambmc-c57bl6-label-basalganglia_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-basalganglia_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-label-basalganglia_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-label-basalganglia_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/xmd3b) | [nii <i class="fas fa-download"></i>](https://osf.io/download/xgj4h) ]
 
 ## References
 If you use this data please cite

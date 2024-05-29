@@ -19,10 +19,10 @@ The model is available in both nonsymmetric and symmetric versions. Note that al
 Download the data in MINC or NiFTI format here.
 
 ### Symmetric
-ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-symmet_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-symmet_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/g8j9u) | [nii <i class="fas fa-download"></i>](https://osf.io/download/g8p6a) ]
 
 ### Non-symmetric
-ambmc-c57bl6-model-nonsym_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-nii.tar.gz) ]
+ambmc-c57bl6-model-nonsym_v0.8 [ [mnc <i class="fas fa-download"></i>](https://osf.io/download/zwcjf) | [nii <i class="fas fa-download"></i>](https://osf.io/download/t9chg) ]
 
 ## References
 Please reference use of the model as such:
@@ -44,7 +44,7 @@ We would also appreciate authours acknowledging the NHMRC as such:
 c57bl/6j model funded by National Health and Medical Research Council Enabling Grant 436673.
 {{% /pageinfo %}}
 
-There is a pdf copy of the above poster here: [Model Poster <i class="fas fa-external-link-alt"></i>](/uploads/AMBMC/ismrm2012_1077.pdf)
+There is a pdf copy of the above poster here: [Model Poster <i class="fas fa-external-link-alt"></i>](https://osf.io/download/yhn6w)
 
 ## Preview
 
